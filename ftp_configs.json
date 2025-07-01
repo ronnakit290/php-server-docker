@@ -1,0 +1,10 @@
+{
+  "CRRU": {
+    "host": "student.crru.ac.th",
+    "port": 21,
+    "user": "681513001",
+    "password": "",
+    "remote_dir": "/",
+    "secure": false
+  }
+}
